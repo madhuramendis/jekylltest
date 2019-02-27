@@ -10,7 +10,7 @@ title: Cellery Leran
                    <div style="max-width:500px;"><p class="cMainParagraph">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore</p></div>
                    <p><a class="cGreenLink" href="/philosophy">LEARN MORE ></a></p>
                    <div class="cHomeButtonContainer">
-                   <a class="cCellery-io-Home-main-download-button" href="downloads">Download Cellery
+                   <a class="cCellery-io-Home-main-download-button" href="downloads">Download Cellerydedede
                    </a>
                    </div>      
                    <!-- <p class="cCellery-io-Home-OS">Distributions available </br>for Linux, OS X and Windows</p> -->
